@@ -92,5 +92,10 @@
       }
     },
     "root": true
-  }
+  },
+  "version": "1.0.0",
+  "main": "webpack.config.dev.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
